@@ -1,0 +1,29 @@
+{
+  "name": "NodeJs-FileUpload",
+  "version": "1.0.0",
+  "description": "A basic application for Uploading Files and Serve Directory Listing Using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulShaw221994/NodeJs-FileUpload.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulShaw221994/NodeJs-FileUpload/issues"
+  },
+  "homepage": "https://github.com/RahulShaw221994/NodeJs-FileUpload#readme",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "nodemon": "^1.19.1",
+    "serve-index": "^1.9.1"
+  }
+}
