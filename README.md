@@ -17,7 +17,7 @@ $ npm run dev
 
 ### Test it with Postman
 
-* Create a `POST` request `http://localhost:3000/fileUpload `
+* Create a `POST` request `http://localhost:3000/fileUpload`
 * Select `form-data` in POST body and `file` as the key value
 
 ### File Directory Listing
