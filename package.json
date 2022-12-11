@@ -20,7 +20,7 @@
   "homepage": "https://github.com/RahulShaw221994/NodeJs-FileUpload#readme",
   "dependencies": {
     "debug": "^4.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.9.1",
     "multer": "^1.4.2",
     "nodemon": "^1.19.1",
